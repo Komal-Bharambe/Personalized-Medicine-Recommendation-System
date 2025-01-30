@@ -1,0 +1,18 @@
+symtoms -> model -> then table generate
+
+recommadate = precaution,medication,workout,diet
+
+
+supervise problem
+
+it is multiclassification column
+
+target and input col
+
+each col has diffeent regards
+
+0 = off
+1 = on
+
+
+** medicine reccomadation all info
